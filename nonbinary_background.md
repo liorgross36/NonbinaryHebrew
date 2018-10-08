@@ -10,7 +10,7 @@ These people are commonly referred to as [nonbinary](https://www.teenvogue.com/s
 
 I feel that for the average reader of this paper, a brief exploration of terms, definitions, and gender theory is necessary in order to address the rest of the discussion in a concise and accessible manner.
 
-For more information, please consult the amazing resource ["Our Trans Loved Ones"](https://www.pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf) from PFLAG
+For more information, please consult the amazing resource ["Our Trans Loved Ones"](https://www.pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf) from PFLAG, and [this article](https://www.vox.com/2015/4/24/8483561/transgender-gender-identity-expression) from Vox.
 
 ## Assigned gender
 refers to the coercive designation of a gender to a person’s visible anatomy that occurs at birth.
