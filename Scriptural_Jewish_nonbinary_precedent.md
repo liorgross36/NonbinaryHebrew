@@ -4,8 +4,6 @@ title: Jewish Precedent
 date: 2018-10-8
 ---
 
-# Jewish Precedents for Non-binary Manifestations
-
 ## Talmudic Gender Categories
 The rabbis of the Mishna, during the first through second centuries CE, recognized several categories for gender :
 - “zakhar” (male)
