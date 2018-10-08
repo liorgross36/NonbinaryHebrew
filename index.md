@@ -1,11 +1,13 @@
 # Welcome to the Nonbinary Hebrew Project
 
 ## Who we are
-![Image Alternative Text](images/rivlin_square_0.jpeg "Eyal Rivlin")
+![Image Alternative Text](images/rivlin_square_0.jpg "Eyal Rivlin")
+
 [Eyal Rivlin](https://www.colorado.edu/jewishstudies/faculty-and-staff/faculty/eyal-rivlin) (he/him/his) is an instructor in the Jewish Studies Program at the University of Colorado Boulder, as well as a musician and love warrior. 
 
 
 ![Image Alternative Text](images/lior_gross-9.jpg "Lior Gross")
+
 Lior Gross (they/them/theirs) is a Bachelor's/Master's of the Arts candidate in the CU Boulder Ecology and Evolutionary Biology Department who applies their knowledge of ecology as a framework for justice through building critical community connections and fostering diversity for resilience through education.
 
 ## Our Story
