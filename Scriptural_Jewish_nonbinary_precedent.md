@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome
+title: Jewish Precedent
 date: 2018-10-8
 ---
 
