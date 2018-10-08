@@ -1,3 +1,9 @@
+---
+layout: post
+title: Welcome
+date: 2018-10-8
+---
+
 # Jewish Precedents for Non-binary Manifestations
 
 ## Talmudic Gender Categories
