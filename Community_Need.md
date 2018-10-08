@@ -3,8 +3,6 @@ title: Need in the Community
 type: post
 date: 2018-10-08
 ---
-
-# Need in the community
 ## Movement in the Movements
 ### Conservative
 On April 6th, 2016, the Rabbinical Assembly of Conservative Judaism instructed “all programs affiliated with the Conservative Movement” to fully welcome trans members of the community into all practices and to respect their pronouns and identities. The resolution cited b’tzelem Elohim, kvod habriyot (human dignity), the higher risks that trans people face, and the increasing government acknowledgement and protection for trans folks. Furthermore, it highlights the history of trans identities in Jewish tradition: “the literature of halakhah, from the Mishnah to contemporary responsa, affirms the variety of non-binary gender expression throughout history, granting transgender people the obligations and privileges of all Jews”.
