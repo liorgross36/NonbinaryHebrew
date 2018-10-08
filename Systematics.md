@@ -38,6 +38,7 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 
 ## Pronominal Suffixes
 
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | ךֵ– |
@@ -62,6 +63,7 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 | ------------- | ------------- |
 | s | עוֹשׂאַה |
 | pl | עוֹשִׂימוֹת |
+
 
 ### ע’’ו/ע’’י
 
@@ -129,6 +131,7 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 | 2s | תָּקוּמֶה |
 | 3s | יקוּמה |
 
+
 ## Command form
 
 ### ל’’ה
@@ -144,6 +147,7 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | תנֶה |
+
 
 *This is an open-source and living project. Additional exceptions will be noted and any help with finding them are welcomed in this document: https://docs.google.com/document/d/1Xi8576cE1GQvCP4Z_-jPigr38ao1b0j8QaOzed3K0uE/edit?usp=sharing
 
