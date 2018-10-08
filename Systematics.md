@@ -10,6 +10,8 @@ The chart below illustrates some examples of our systematics. We used ִימוֹ
 Also, in cases in which the feminine and masculine were the same, we did not provide a third option, opting instead to follow convention for terms that are already gender-inclusive. Below, s stands for singular, pl for plural, and the numbers are to indicate second or third person.
 
 ## Noun endings
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | s | תָלמִידֶה |
@@ -17,6 +19,8 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 
 
 ## Pronouns
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | אָתֶה |
@@ -25,6 +29,8 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 | 3pl | הֶמֵן |
 
 ## Construct Chains
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | s | תָלמִידֶת הָכִּיתַה |
@@ -40,16 +46,24 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 
 ## Present tense
 ### שלמים
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | s | לוֹמדֶה |
 | pl | לוֹמדִימוֹת |
+
+
 ### ל’’ה
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | s | עוֹשׂאַה |
 | pl | עוֹשִׂימוֹת |
 ### ע’’ו/ע’’י
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | s | קָמֶה |
@@ -57,18 +71,28 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 
 ## Past tense
 ### שלמים
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | לָמַדְתֶה |
 | 2pl | לָמַדְתֶמֵן |
 | 3s | לָמְדֶה |
+
+
 ### ל’’ה
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | עָשִׂיתֶה |
 | 2pl | עָשִׂיתֶמֵן |
 | 3s | עָשׂתֶה |
+
+
 ### ע’’ו/ע’’י
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | קָמְתֶה |
@@ -78,16 +102,26 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 ## Future tense
 
 ### שלמים
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | תִּלְמְדֶה |
 | 3s | ילְמדֶה |
+
+
 ### ל’’ה
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | תּעָשֶׂאה |
 | 3s | יעעֲשֶׂאה |
+
+
 ### ע’’ו/ע’’י
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | תָּקוּמֶה |
@@ -96,11 +130,15 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 ## Command form
 
 ### ל’’ה
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | עָשֶאַה |
 
 ### פ’’נ
+
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | תנֶה |
