@@ -9,10 +9,10 @@ The chart below illustrates some examples of our systematics. We used ִימוֹ
 
 Also, in cases in which the feminine and masculine were the same, we did not provide a third option, opting instead to follow convention for terms that are already gender-inclusive. Below, s stands for singular, pl for plural, and the numbers are to indicate second or third person.
 
-|Noun endings|
+| Noun endings |
 -----------
-|s | תָלמִידֶה|
-|pl | תָלמִידִימוֹת|
+| s | תָלמִידֶה |
+| pl | תָלמִידִימוֹת |
 
 
 Pronouns
