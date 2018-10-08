@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 title: The Non-binary Hebrew Project
+imageurl: "/images"
+permalink: /:title/
