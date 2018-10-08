@@ -2,7 +2,7 @@
 
 ## Who we are
 
-![Image Alternative Text](images/rivlin_square_0.jpg "Eyal Rivlin")
+![Image Alternative Text](images/rivlin_sqaure_0.jpg "Eyal Rivlin")
 
 [Eyal Rivlin](https://www.colorado.edu/jewishstudies/faculty-and-staff/faculty/eyal-rivlin) (he/him/his) is an instructor in the Jewish Studies Program at the University of Colorado Boulder, as well as a musician and love warrior. 
 
