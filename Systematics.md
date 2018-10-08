@@ -10,54 +10,43 @@ The chart below illustrates some examples of our systematics. We used ִימוֹ
 Also, in cases in which the feminine and masculine were the same, we did not provide a third option, opting instead to follow convention for terms that are already gender-inclusive. Below, s stands for singular, pl for plural, and the numbers are to indicate second or third person.
 
 Noun endings
+-----------
+s | תָלמִידֶה
+pl | תָלמִידִימוֹת
 
-s
-תָלמִידֶה
-pl
-תָלמִידִימוֹת
 
 Pronouns
-
-2s
-אָתֶה
-2pl
-אָתֶמֵן
-3s
-הֶא
-3pl
-הֶמֵן
+----------
+2s | אָתֶה
+2pl | אָתֶמֵן
+3s | הֶא
+3pl | הֶמֵן
 
 Construct Chains
-
-s
-תָלמִידֶת הָכִּיתַה
-pl
-תָלמִידוֹתֶי הָכִּיתַה
+------------------
+s | תָלמִידֶת הָכִּיתַה
+pl | תָלמִידוֹתֶי הָכִּיתַה
 
 Pronominal Suffixes
-
-2s
--ךֵ
-2pl
-–כֶמֵן
+---------------------
+2s | -ךֵ
+2pl | -כֶמֵן
 3s
-–ֶ/–הֶ
-3pl
-–ָמַן
+3s | –ֶX/–הֶ
+3pl | –ָמַן
 
 Present tense
-
+---------------
 שלמים
-s
-לוֹמדֶה
-pl
-לוֹמדִימוֹת
+-------
+s | לוֹמדֶה
+pl | לוֹמדִימוֹת
 ל’’ה
-s
-עוֹשׂאַה
-pl
-עוֹשִׂימוֹת
+-----------
+s | עוֹשׂאַה
+pl | עוֹשִׂימוֹת
 ע’’ו/ע’’י
+---------
 s
 קָמֶה
 pl
@@ -119,5 +108,5 @@ Command form
 
 *This is an open-source and living project. Additional exceptions will be noted and any help with finding them are welcomed in this document: https://docs.google.com/document/d/1Xi8576cE1GQvCP4Z_-jPigr38ao1b0j8QaOzed3K0uE/edit?usp=sharing
 
-Anticipated issues
+## Anticipated issues
 Though we found tremendous success in the implementation of these systematics, the application in the classroom is only the beginning. Our exploration of these conventions was limited to the scope of the class, the introductory nature of which did not cover all tenses or verb forms that are commonly used in Hebrew. In addition, the lack of vowels in writing Hebrew may make it difficult to distinguish the feminine form from the gender-expansive form in publication for singular nouns as well as some verbs. Furthermore, convention standardization for exceptions would be necessary for smooth comprehension and widespread implementation, for we can share the tool of the  “e” but for exceptions highlighted in the chart, the convention could be molded to fit the speaker instead of being used in an established manner. Finally, some of the forms, such as in past tense, may require trained ears to hear the vocalized differences in emphasis and accent, which could be a challenge for comprehension as well.
