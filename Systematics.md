@@ -10,102 +10,70 @@ The chart below illustrates some examples of our systematics. We used ִימוֹ
 Also, in cases in which the feminine and masculine were the same, we did not provide a third option, opting instead to follow convention for terms that are already gender-inclusive. Below, s stands for singular, pl for plural, and the numbers are to indicate second or third person.
 
 ## Noun endings
-| Person | Hebrew |
-| ----------- | ------- |
 | s | תָלמִידֶה |
 | pl | תָלמִידִימוֹת |
 
 
-Pronouns
-----------
-2s | אָתֶה
-2pl | אָתֶמֵן
-3s | הֶא
-3pl | הֶמֵן
+## Pronouns
+| 2s | אָתֶה |
+| 2pl | אָתֶמֵן |
+| 3s | הֶא |
+| 3pl | הֶמֵן |
 
-Construct Chains
-------------------
-s | תָלמִידֶת הָכִּיתַה
-pl | תָלמִידוֹתֶי הָכִּיתַה
+## Construct Chains
+| s | תָלמִידֶת הָכִּיתַה |
+| pl | תָלמִידוֹתֶי הָכִּיתַה |
 
-Pronominal Suffixes
----------------------
-2s | -ךֵ
-2pl | -כֶמֵן
-3s
-3s | –ֶX/–הֶ
-3pl | –ָמַן
+## Pronominal Suffixes
+| 2s | ךֵ– |
+| 2pl | כֶמֵן– |
+| 3s | ֶX–/הֶ– |
+| 3pl | מָן– |
 
-Present tense
----------------
-שלמים
--------
-s | לוֹמדֶה
-pl | לוֹמדִימוֹת
-ל’’ה
------------
-s | עוֹשׂאַה
-pl | עוֹשִׂימוֹת
-ע’’ו/ע’’י
----------
-s
-קָמֶה
-pl
-קָמִימוֹת
+## Present tense
+### שלמים
+| s | לוֹמדֶה |
+| pl | לוֹמדִימוֹת |
+### ל’’ה
+| s | עוֹשׂאַה |
+| pl | עוֹשִׂימוֹת |
+### ע’’ו/ע’’י
+| s | קָמֶה |
+| pl | קָמִימוֹת |
 
-Past tense
+## Past tense
+### שלמים
+| 2s | לָמַדְתֶה |
+| 2pl | לָמַדְתֶמֵן |
+| 3s | לָמְדֶה |
+### ל’’ה
+| 2s | עָשִׂיתֶה |
+| 2pl | עָשִׂיתֶמֵן |
+| 3s | עָשׂתֶה |
+### ע’’ו/ע’’י
+| 2s | קָמְתֶה |
+| 2pl | קָמְתֶמֵן |
+| 3s | קָמֶה |
 
-שלמים
-2s
-לָמַדְתֶה
-2pl
-לָמַדְתֶמֵן
-3s
-לָמְדֶה
-ל’’ה
-2s
-עָשִׂיתֶה
-2pl
-עָשִׂיתֶמֵן
-3s
-עָשׂתֶה
-ע’’ו/ע’’י
-2s
-קָמְתֶה
-2pl
-קָמְתֶמֵן
-3s
-קָמֶה
+## Future tense
 
+### שלמים
+| 2s | תִּלְמְדֶה |
+| 3s | ילְמדֶה |
+### ל’’ה
+| 2s | תּעָשֶׂאה |
+| 3s | יעעֲשֶׂאה |
+### ע’’ו/ע’’י
+| 2s | תָּקוּמֶה |
+| 3s | יקוּמה |
 
-Future tense
+## Command form
 
-שלמים
-2s
-תִּלְמְדֶה
-3s
-ילְמדֶה
-ל’’ה
-2s
-תּעָשֶׂאה
-3s
-יעעֲשֶׂאה
-ע’’ו/ע’’י
-2s
-תָּקוּמֶה
-3s
-יקוּמה
+### ל’’ה
+| 2s | עָשֶאַה |
 
-Command form
-
-ל’’ה
-2s
-עָשֶאַה
-
-
-פ’’נ
-2s
-תנֶה
+### פ’’נ
+| 2s | תנֶה |
 
 *This is an open-source and living project. Additional exceptions will be noted and any help with finding them are welcomed in this document: https://docs.google.com/document/d/1Xi8576cE1GQvCP4Z_-jPigr38ao1b0j8QaOzed3K0uE/edit?usp=sharing
 
