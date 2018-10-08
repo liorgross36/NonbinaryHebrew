@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nonbinary Background
+date: 2018-10-8
+---
 
 # Background on Nonbinary Identities
 Though often excluded from Western mainstream discourse, there are many people currently as well as [throughout history](http://bilerico.lgbtqnation.com/2008/02/transgender_history_trans_expression_in.php) whose gender does not fit in the binary system of “man” and “woman”.
