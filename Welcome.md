@@ -1,3 +1,9 @@
+---
+layout: post
+title: Welcome
+date: 2018-10-8
+---
+
 # Welcome to the Nonbinary Hebrew Project
 
 ## Who we are
