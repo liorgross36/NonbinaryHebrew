@@ -4,8 +4,6 @@ title: Welcome
 date: 2018-10-8
 ---
 
-# Welcome to the Nonbinary Hebrew Project
-
 ## Who we are
 
 ![Image Alternative Text](images/rivlin_sqaure_0.jpg "Eyal Rivlin")
