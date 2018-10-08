@@ -37,6 +37,7 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 | pl | תָלמִידוֹתֶי הָכִּיתַה |
 
 ## Pronominal Suffixes
+
 | Grammatical Person | Hebrew conjugation |
 | ------------- | ------------- |
 | 2s | ךֵ– |
@@ -61,6 +62,7 @@ Also, in cases in which the feminine and masculine were the same, we did not pro
 | ------------- | ------------- |
 | s | עוֹשׂאַה |
 | pl | עוֹשִׂימוֹת |
+
 ### ע’’ו/ע’’י
 
 
