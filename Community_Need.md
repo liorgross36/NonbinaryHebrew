@@ -1,7 +1,7 @@
 ---
-title: Need in the Community
-type: post
-date: 2018-10-08
+layout: post
+title: Community Need
+date: 2018-10-8
 ---
 ## Movement in the Movements
 ### Conservative
