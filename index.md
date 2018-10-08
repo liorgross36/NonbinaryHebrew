@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to the Nonbinary Hebrew Project
 
-You can use the [editor on GitHub](https://github.com/liorgross36/NonbinaryHebrew/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Who we are
+![Image](src) 
+[Eyal Rivlin](https://www.colorado.edu/jewishstudies/faculty-and-staff/faculty/eyal-rivlin) (he/him/his) is an instructor in the Jewish Studies Program at the University of Colorado Boulder, as well as a musician and love warrior. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Image](src) 
+Lior Gross (they/them/theirs) is a Bachelor's/Master's of the Arts candidate in the CU Boulder Ecology and Evolutionary Biology Department who applies their knowledge of ecology as a framework for justice through building critical community connections and fostering diversity for resilience through education.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liorgross36/NonbinaryHebrew/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Our Story
+When Lior enrolled to take Eyal's Hebrew class, it became apparent that it would be difficult for them to participate fully due to the binary nature of the language. As such, the two of us worked together to develop these systematics to address a community need. This tool has been eagerly received and we hope it can be helpful for your community too.
